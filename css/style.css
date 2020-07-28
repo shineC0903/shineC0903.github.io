@@ -831,6 +831,10 @@ span.sb-caret { /* Caret Down */
 /* *******************************************************
 * Full-height hero section, (homepage, above the fold,)
 ******************************************************* */
+element.style {
+    background: url(/img/bg_img.jpg) no-repeat center center fixed;
+    background-size: cover;
+}
 #hero {
 	height: 100%;
 	position: fixed;
