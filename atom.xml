@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>CHEN YANG</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://shinec0903.github.io/"/>
+  <updated>2020-07-27T12:29:59.869Z</updated>
+  <id>http://shinec0903.github.io/</id>
+  
+  <author>
+    <name>YCHEN</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://shinec0903.github.io/2020/07/27/hello-world/"/>
+    <id>http://shinec0903.github.io/2020/07/27/hello-world/</id>
+    <published>2020-07-27T12:29:59.869Z</published>
+    <updated>2020-07-27T12:29:59.869Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+</feed>
